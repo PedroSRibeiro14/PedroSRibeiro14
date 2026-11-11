@@ -35,15 +35,6 @@ missão:      Transformar código em soluções reais
 
 Minha jornada começou pelos **fundamentos da programação** e pela **lógica de programação em Python**, que me deram a base para pensar como dev. Hoje estou evoluindo para o **Java**, aprendendo um commit de cada vez.
 
-</td>
-<td width="38%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PedroSRibeiro14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f0ff&icon_color=7b2ff7&text_color=c9d1d9&hide_title=true&card_width=300" alt="mini stats"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## ⚙️ `> tech_stack --list`
