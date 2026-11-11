@@ -118,16 +118,16 @@ pedro@sys:~$ status --progress
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f0ff&icon_color=7b2ff7&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f0ff&text_color=c9d1d9" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroSRibeiro14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f0ff&icon_color=7b2ff7&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSRibeiro14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f0ff&text_color=c9d1d9" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0a0f1e&ring=00f0ff&fire=ff2e97&currStreakLabel=00f0ff" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=PedroSRibeiro14&theme=tokyonight&hide_border=true&background=0a0f1e&ring=00f0ff&fire=ff2e97&currStreakLabel=00f0ff" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0a0f1e&color=00f0ff&line=7b2ff7&point=ff2e97&area_color=7b2ff7&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroSRibeiro14&bg_color=0a0f1e&color=00f0ff&line=7b2ff7&point=ff2e97&area_color=7b2ff7&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
