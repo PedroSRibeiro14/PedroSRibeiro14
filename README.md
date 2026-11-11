@@ -125,10 +125,6 @@ pedro@sys:~$ status --progress
 
 <img src="https://streak-stats.demolab.com/?user=PedroSRibeiro14&theme=tokyonight&hide_border=true&background=0a0f1e&ring=00f0ff&fire=ff2e97&currStreakLabel=00f0ff" alt="Streak"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroSRibeiro14&bg_color=0a0f1e&color=00f0ff&line=7b2ff7&point=ff2e97&area_color=7b2ff7&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-
 </div>
 
 ---
@@ -138,20 +134,6 @@ pedro@sys:~$ status --progress
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=PedroSRibeiro14O&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
-
-</div>
-
----
-
-## 🐍 `> snake.run`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroSRibeiro14/PedroSRibeiro14/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroSRibeiro14/PedroSRibeiro14/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/PedroSRibeiro14/PedroSRibeiro14/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
