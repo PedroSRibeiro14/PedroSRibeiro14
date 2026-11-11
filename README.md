@@ -24,16 +24,25 @@
 <td width="62%" valign="top">
 
 ```yaml
-nome:        Pedro Ribeiro
+nome:        Pedro
 status:      Estudante de programação
 local:       Brasil 🇧🇷
 universidade: ENIAC
-foco_atual:  Lógica, Python, JavaScript e Java
+começou_com: Fundamentos e lógica de programação em Python
+foco_atual:  Aprendendo Java
 missão:      Transformar código em soluções reais
 ```
 
-Gosto de aprender na prática: resolvo provas e simulados, construo projetos e vou evoluindo um commit de cada vez. Atualmente estou fortalecendo a base em **Python**, enquanto dou os primeiros passos em **Java**.
+Minha jornada começou pelos **fundamentos da programação** e pela **lógica de programação em Python**, que me deram a base para pensar como dev. Hoje estou evoluindo para o **Java**, aprendendo um commit de cada vez.
 
+</td>
+<td width="38%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PedroSRibeiro14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f0ff&icon_color=7b2ff7&text_color=c9d1d9&hide_title=true&card_width=300" alt="mini stats"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -47,8 +56,6 @@ Gosto de aprender na prática: resolvo provas e simulados, construo projetos e v
 
 ![Python](https://img.shields.io/badge/Python-0a0f1e?style=for-the-badge&logo=python&logoColor=00f0ff)
 ![Java](https://img.shields.io/badge/Java-0a0f1e?style=for-the-badge&logo=openjdk&logoColor=ff2e97)
-![HTML5](https://img.shields.io/badge/HTML5-0a0f1e?style=for-the-badge&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-0a0f1e?style=for-the-badge&logo=css3&logoColor=1572b6)
 
 </div>
 
@@ -69,22 +76,6 @@ Gosto de aprender na prática: resolvo provas e simulados, construo projetos e v
 ---
 
 ## 🚀 `> projetos --featured`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💸 FinancIA
-![](https://img.shields.io/badge/STATUS-ETAPA%20FINAL-00f0ff?style=flat-square&labelColor=0a0f1e)
-
-Aplicativo de **finanças para universitários**, desenvolvido no contexto da ENIAC. Etapa final com **pitch deck**, **pitch elevator** e **prova social**.
-
-`IA` `Finanças` `Startup` `Pitch`
-
-[🔗 Ver projeto](https://github.com/SEU_USUARIO/financia)
-
-</td>
-<td width="50%" valign="top">
 
 ### 🐍 Fundamentos em Python
 ![](https://img.shields.io/badge/STATUS-BASE%20CONCLUÍDA-7b2ff7?style=flat-square&labelColor=0a0f1e)
@@ -114,14 +105,15 @@ Hoje estou aprendendo **Java do zero**: sintaxe, orientação a objetos e pequen
 </table>
 
 ---
+
 ## 🎯 `> objetivos --atuais`
 
 ```bash
-Pedro Ribeiro:~$ cat objetivos_2026.log
+pedro@sys:~$ cat objetivos_2026.log
 
-[✔] Fortalecer lógica e fundamentos de Python
-[✔] Praticar JavaScript e manipulação do DOM
-[▶] Aprender Java do zero (em andamento)
+[✔] Aprender fundamentos e lógica de programação em Python
+[▶] Aprender Java (em andamento)
+[▶] Finalizar o FinancIA: pitch deck + pitch elevator
 [ ] Publicar mais projetos e manter commits constantes
 [ ] Conquistar a primeira oportunidade de estágio em tecnologia
 
@@ -135,16 +127,16 @@ pedro@sys:~$ status --progress
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroSRibeiro14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f0ff&icon_color=7b2ff7&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSRibeiro14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f0ff&text_color=c9d1d9" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f0ff&icon_color=7b2ff7&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f0ff&text_color=c9d1d9" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=PedroSRibeiro14&theme=tokyonight&hide_border=true&background=0a0f1e&ring=00f0ff&fire=ff2e97&currStreakLabel=00f0ff" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0a0f1e&ring=00f0ff&fire=ff2e97&currStreakLabel=00f0ff" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroSRibeiro14&bg_color=0a0f1e&color=00f0ff&line=7b2ff7&point=ff2e97&area_color=7b2ff7&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0a0f1e&color=00f0ff&line=7b2ff7&point=ff2e97&area_color=7b2ff7&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -154,7 +146,7 @@ pedro@sys:~$ status --progress
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PedroSRibeiro14O&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
 
 </div>
 
@@ -165,7 +157,7 @@ pedro@sys:~$ status --progress
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroSRibeiro14PedroSRibeiro14/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroSRibeiro14/PedroSRibeiro14/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroSRibeiro14/PedroSRibeiro14/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/PedroSRibeiro14/PedroSRibeiro14/output/github-snake-dark.svg" />
 </picture>
@@ -196,4 +188,5 @@ pedro@sys:~$ status --progress
 <sub>⚡ Feito com café, código e muita vontade de aprender • © 2026 Pedro</sub>
 
 </div>
+
 
