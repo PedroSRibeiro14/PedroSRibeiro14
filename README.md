@@ -34,14 +34,6 @@ missão:      Transformar código em soluções reais
 
 Gosto de aprender na prática: resolvo provas e simulados, construo projetos e vou evoluindo um commit de cada vez. Atualmente estou fortalecendo a base em **Python**, enquanto dou os primeiros passos em **Java**.
 
-</td>
-<td width="38%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PedroSRibeiro14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f0ff&icon_color=7b2ff7&text_color=c9d1d9&hide_title=true&card_width=300" alt="mini stats"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
