@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:00f0ff,100:7b2ff7&height=240&section=header&text=PEDRO RIBEIRO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Inicializando%20perfil...&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 
 <a href="https://github.com/PedroSRibeiro14">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=640&lines=%3E+boot_sequence+%E2%80%A6+OK;%3E+Ol%C3%A1%2C+eu+sou+o+Pedro+%F0%9F%91%8B;%3E+Estudante+de+programa%C3%A7%C3%A3o+%26+futuro+dev;%3E+Python+%7C+JavaScript+%7C+Java+(em+progresso);%3E+Construindo+o+FinancIA+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=640&lines=%3E+boot_sequence+%E2%80%A6+OK;%3E+Ol%C3%A1%2C+eu+sou+o+Pedro+%F0%9F%91%8B;%3E+Estudante+de+programa%C3%A7%C3%A3o+%26+futuro+dev;%3E+Python+%7C+%7C+Java+(em+progresso);" alt="Typing SVG" />
 </a>
 
 <br/>
