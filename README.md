@@ -41,12 +41,11 @@ Gosto de aprender na prática: resolvo provas e simulados, construo projetos e v
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css,git,github,vscode&perline=8" alt="stack"/>
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode&perline=5" alt="stack"/>
 
 <br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-0a0f1e?style=for-the-badge&logo=python&logoColor=00f0ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0f1e?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![Java](https://img.shields.io/badge/Java-0a0f1e?style=for-the-badge&logo=openjdk&logoColor=ff2e97)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0f1e?style=for-the-badge&logo=html5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0f1e?style=for-the-badge&logo=css3&logoColor=1572b6)
