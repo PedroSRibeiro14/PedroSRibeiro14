@@ -70,50 +70,50 @@ Gosto de aprender na prática: resolvo provas e simulados, construo projetos e v
 
 ## 🚀 `> projetos --featured`
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💸 FinancIA
+![](https://img.shields.io/badge/STATUS-ETAPA%20FINAL-00f0ff?style=flat-square&labelColor=0a0f1e)
+
+Aplicativo de **finanças para universitários**, desenvolvido no contexto da ENIAC. Etapa final com **pitch deck**, **pitch elevator** e **prova social**.
+
+`IA` `Finanças` `Startup` `Pitch`
+
+[🔗 Ver projeto](https://github.com/SEU_USUARIO/financia)
+
 </td>
 <td width="50%" valign="top">
 
-### 🐍 Estudos em Python
-![](https://img.shields.io/badge/STATUS-EM%20EVOLUÇÃO-7b2ff7?style=flat-square&labelColor=0a0f1e)
+### 🐍 Fundamentos em Python
+![](https://img.shields.io/badge/STATUS-BASE%20CONCLUÍDA-7b2ff7?style=flat-square&labelColor=0a0f1e)
 
-Exercícios e guias de **lógica de programação** e fundamentos de Python, preparados para provas e prática.
+Onde tudo começou: fundamentos de programação e **lógica de programação** em Python, com exercícios e guias de estudo.
 
 `Python` `Lógica` `Algoritmos`
 
-[🔗 Ver repositório](https://github.com/PedroSRibeiro14/estudos-python)
+[🔗 Ver repositório](https://github.com/SEU_USUARIO/estudos-python)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🌐 Simulados JavaScript / DOM
-![](https://img.shields.io/badge/STATUS-PRATICANDO-ff2e97?style=flat-square&labelColor=0a0f1e)
-
-Prática de **JavaScript e manipulação do DOM**, com simulados e desafios para fixar o conteúdo.
-
-`JavaScript` `DOM` `HTML` `CSS`
-
-[🔗 Ver repositório](https://github.comPedroSRibeiro14/estudos-js)
-
-</td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" colspan="2">
 
 ### ☕ Jornada Java
-![](https://img.shields.io/badge/STATUS-INICIANDO-f7df1e?style=flat-square&labelColor=0a0f1e)
+![](https://img.shields.io/badge/STATUS-APRENDENDO-f7df1e?style=flat-square&labelColor=0a0f1e)
 
-Primeiros passos em **Java do zero**: sintaxe, orientação a objetos e pequenos programas.
+Hoje estou aprendendo **Java do zero**: sintaxe, orientação a objetos e pequenos programas.
 
 `Java` `POO` `Iniciante`
 
-[🔗 Ver repositório](https://github.com/PedroSRibeiro14/aprendendo-java)
+[🔗 Ver repositório](https://github.com/SEU_USUARIO/aprendendo-java)
 
 </td>
 </tr>
 </table>
 
 ---
-
 ## 🎯 `> objetivos --atuais`
 
 ```bash
