@@ -11,7 +11,7 @@
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00f0ff?style=for-the-badge&labelColor=0a0f1e)
 ![Foco](https://img.shields.io/badge/FOCO-DEV%20%26%20IA-7b2ff7?style=for-the-badge&labelColor=0a0f1e)
 ![Aprendendo](https://img.shields.io/badge/APRENDENDO-JAVA-ff2e97?style=for-the-badge&labelColor=0a0f1e)
-![Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00f0ff&label=ACESSOS&labelColor=0a0f1e)
+![Views](https://komarev.com/ghpvc/?username=PedroSRibeiro14&style=for-the-badge&color=00f0ff&label=ACESSOS&labelColor=0a0f1e)
 
 </div>
 
