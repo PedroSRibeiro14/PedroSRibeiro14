@@ -118,9 +118,6 @@ pedro@sys:~$ status --progress
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroSRibeiro14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f0ff&icon_color=7b2ff7&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSRibeiro14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f0ff&text_color=c9d1d9" alt="Top Languages"/>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=PedroSRibeiro14&theme=tokyonight&hide_border=true&background=0a0f1e&ring=00f0ff&fire=ff2e97&currStreakLabel=00f0ff" alt="Streak"/>
