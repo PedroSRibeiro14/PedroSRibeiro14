@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:00f0ff,100:7b2ff7&height=240&section=header&text=PEDRO RIBEIRO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Inicializando%20perfil...&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 
 <a href="https://github.com/PedroSRibeiro14">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=640&lines=%3E+boot_sequence+%E2%80%A6+OK;%3E+Ol%C3%A1%2C+eu+sou+o+Pedro+%F0%9F%91%8B;%3E+Estudante+de+programa%C3%A7%C3%A3o+%26+futuro+dev;%3E+Python+%7C+%7C+Java+(em+progresso);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=640&lines=%3E+carregando%E2%80%A6+OK;%3E+Ol%C3%A1%2C+eu+sou+o+Pedro+%F0%9F%91%8B;%3E+Estudante+de+programa%C3%A7%C3%A3o+%26+futuro+dev;%3E+Python+%7C+Java+(em+progresso);" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,7 +11,7 @@
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00f0ff?style=for-the-badge&labelColor=0a0f1e)
 ![Foco](https://img.shields.io/badge/FOCO-DEV%20%26%20IA-7b2ff7?style=for-the-badge&labelColor=0a0f1e)
 ![Aprendendo](https://img.shields.io/badge/APRENDENDO-JAVA-ff2e97?style=for-the-badge&labelColor=0a0f1e)
-![Views](https://komarev.com/ghpvc/?username=PedroSRibeiro14&style=for-the-badge&color=00f0ff&label=ACESSOS&labelColor=0a0f1e)
+
 
 </div>
 
